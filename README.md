@@ -1,6 +1,6 @@
-## React-Todo
+## React-Boileplate-v1
 
-Simple app written with React.
+plates n' boils
 
 ### Markdown for later :wink:
 
